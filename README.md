@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/16YwjPRTt1-7xOxR_kKLB1O0s2UVxR6aC/view?usp=sharing](https://drive.google.com/file/d/16YwjPRTt1-7xOxR_kKLB1O0s2UVxR6aC/view?usp=sharing)
 
 
-<h3 align="center">Lenguages:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
